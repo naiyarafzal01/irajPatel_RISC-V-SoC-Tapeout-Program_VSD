@@ -11,7 +11,8 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 | Task | Description | Status |
 |------|-------------|---------|
-| **Task 0** | 🛠️ [Tools Installation](Week0/Task0/README.md) <br> Installed **iverilog**, **yosys**, and **gtkwave** | ✅ Done |
+| **Task 0** | 🛠️ [Tools Installation](Week0/Task0/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+
 
 
 ### 🌟 Key Learnings from Week 0
