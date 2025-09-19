@@ -1,5 +1,5 @@
 
-# VSD Hardware Design Program
+# RISC-V Reference SoC Tapeout Program VSD
 
 ## Tools Installation
 
